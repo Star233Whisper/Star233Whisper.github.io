@@ -103,4 +103,6 @@ theme: arknights
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: https://github.com/Night233Maple/Night233Maple.github.io
+  branch: master
